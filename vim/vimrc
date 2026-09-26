@@ -1,0 +1,14 @@
+" Portable, plugin-free Vim defaults.
+set nocompatible
+syntax on
+filetype plugin indent on
+set number
+set ruler
+set showcmd
+set laststatus=2
+set backspace=indent,eol,start
+set incsearch
+set hlsearch
+set ignorecase
+set smartcase
+set wildmenu
